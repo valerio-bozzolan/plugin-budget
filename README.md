@@ -5,6 +5,10 @@ Budget Plugin for Kanboard
 - See expenses based on sub-task time tracking
 - Manage user hourly rates
 
+This project is archived. We suggest the adoption of these other projects:
+
+...
+
 Author
 ------
 
